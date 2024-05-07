@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "34700240102",
+    "project_id": "testsociallogin-2a372",
+    "storage_bucket": "testsociallogin-2a372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34700240102:android:55ade8a25f225f59d7c727",
+        "android_client_info": {
+          "package_name": "com.suyati.TestDemo.testdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34700240102-pe0qn74qap285blauvbeqhrlgffb0ll7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suyati.TestDemo.testdemo",
+            "certificate_hash": "3c1c78a2c809fd5758310b9ec2e3cb4b6fa26c7d"
+          }
+        },
+        {
+          "client_id": "34700240102-niam5u0r040qf7e2r2pntqpugpksipqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd7jYwJ0yeztcE0sRGOvNXnLBuqw7-N1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34700240102-niam5u0r040qf7e2r2pntqpugpksipqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
